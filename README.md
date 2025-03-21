@@ -13,6 +13,6 @@ You can check them out here  🚀
 
 | <img src="/images/betterworkout.png" width="100"/>
 | - | -  | - |
-| <a href="https://www.wishkit.io/?ref=github" align="center">WishKit</a> | <a href="https://apps.apple.com/us/app/samobus/id6743319362" align="center">SamoBus</a> 
+| <a href="https://apps.apple.com/us/app/samobus/id6743319362" align="center">SamoBus</a> 
 
 
