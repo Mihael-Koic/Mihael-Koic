@@ -11,7 +11,8 @@ Soon about my projects 🚀
 
 You can check them out here  🚀 
 
-| <img src="/img/IMG_2934.PNG" width="100"/>
-| <a href="https://apps.apple.com/us/app/samobus/id6743319362" align="center">SamoBus</a> 
+| <img src="/img/IMG_2934.PNG" width="100"/> | <img src="" width="100"/> | <img src="" width="100"/> |
+| - | -  | - |
+| <a href="https://apps.apple.com/us/app/samobus/id6743319362" align="center">SamoBus</a> | <a href="" align="center"></a> | <a href="" align="center"></a> |
 
 
