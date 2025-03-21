@@ -7,12 +7,11 @@ I love working on new challenges and always have side projects that push my boun
 <!-- Most of the time that side project work is streamed on **Twitch**. Feel free to join a session of code and chill ✨ -->
 
 ## My Projects
-Soon about my projects 🚀
-
 You can check them out here  🚀 
 
-| <img src="/img/IMG_2934.PNG" width="100"/>  | <img src="/img/IMG_2934.PNG" width="100"/> |
+
+| <img src="/img/IMG_2934.PNG" width="100"/> | <img src="" width="100"/> | <img src="" width="100"/> |
 | - | -  | - |
-| <a href="https://apps.apple.com/us/app/samobus/id6743319362" align="center">SamoBus</a> |  <a href="https://apps.apple.com/us/app/samobus/id6743319362" align="center">SamoBus</a> |
+| <a href="https://apps.apple.com/us/app/samobus/id6743319362" align="center">SamoBus</a> | <a href="" align="center">t</a> | <a href="" align="center"></a> |
 
 
