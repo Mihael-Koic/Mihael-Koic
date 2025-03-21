@@ -8,13 +8,11 @@ I love working on new challenges and always have side projects that push my boun
 
 ## My Projects
 Soon about my projects 🚀
-<!--
-You can check them out here  🚀 -->
-<!--
-| <img src="/images/wishkit-icon.png" width="100"/> | <img src="/images/betterworkout.png" width="100"/> | <img src="/images/momoko.png" width="100"/> |
-| - | -  | - |
-| <a href="https://www.wishkit.io/?ref=github" align="center">WishKit</a> | <a href="https://apps.apple.com/at/app/better-workout/id1523173452" align="center">Better Workout</a> | <a href="https://apps.apple.com/de/app/momoko-io/id1371665660" align="center">Momoko</a> |
- -->
 
+You can check them out here  🚀 
+
+| <img src="/images/betterworkout.png" width="100"/>
+| - | -  | - |
+| <a href="https://www.wishkit.io/?ref=github" align="center">WishKit</a> | <a href="https://apps.apple.com/us/app/samobus/id6743319362" align="center">SamoBus</a> 
 
 
