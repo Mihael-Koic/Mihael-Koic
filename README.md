@@ -11,7 +11,7 @@ Soon about my projects 🚀
 
 You can check them out here  🚀 
 
-| <img src="/images/betterworkout.png" width="100"/>
+| <img src="/img/IMG_2934.PNG" width="100"/>
 | - | -  | - |
 | <a href="https://apps.apple.com/us/app/samobus/id6743319362" align="center">SamoBus</a> 
 
