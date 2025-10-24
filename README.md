@@ -12,6 +12,6 @@ You can check them out here  🚀
 
 | <img src="/img/IMG_2934.PNG" width="100"/> | <img src="" width="100"/> | <img src="" width="100"/> |
 | - | -  | - |
-| <a href="[https://apps.apple.com/us/app/samobus/id6743319362](https://mihaelkoic.netlify.app/samobus)" align="center">SamoBus</a> | <a href="" align="center"></a> | <a href="" align="center"></a> |
+| <a href="https://apps.apple.com/us/app/samobus/id6743319362](https://mihaelkoic.netlify.app/samobus" align="center">SamoBus</a> | <a href="" align="center"></a> | <a href="" align="center"></a> |
 
 
