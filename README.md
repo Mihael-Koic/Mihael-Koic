@@ -4,7 +4,7 @@
 
 Nice to meet you! Currently I work for myself. <br/>
 I love working on new challenges and always have side projects that push my boundaries!
-<!-- Most of the time that side project work is streamed on **Twitch**. Feel free to join a session of code and chill ✨ -->
+Most of the time that side project work is streamed on **Tik Tok**. Feel free to join a session of code and chill ✨
 
 ## My Projects
 You can check them out here  🚀  
