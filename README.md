@@ -11,8 +11,8 @@ Most of the time that side project work is streamed on **Tik Tok**. Feel free to
 You can check them out here  🚀  
 
 
-| <img src="/img/IMG_2934.PNG" width="100"/> | <img src="" width="100"/> | <img src="" width="100"/> |
+| <img src="/img/IMG_2934.PNG" width="100"/> | <img src="/BeFantasticLogo.png" width="100"/> | <img src="" width="100"/> |
 | - | -  | - |
-| <a href="https://apps.apple.com/us/app/samobus/id6743319362](https://mihaelkoic.netlify.app/samobus" align="center">SamoBus</a> | <a href="" align="center"></a> | <a href="" align="center"></a> |
+| <a href="https://apps.apple.com/us/app/samobus/id6743319362](https://mihaelkoic.netlify.app/samobus" align="center">SamoBus</a> | <a href="https://apps.apple.com/hr/app/fantastic-events/id6760582603" align="center">Fantastic Events</a> | <a href="" align="center"></a> |
 
 
